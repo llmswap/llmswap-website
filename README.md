@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # llmswap Documentation Website
 
 This repository contains the complete documentation website for [llmswap](https://github.com/sreenathmmenon/llmswap) - the universal AI CLI.
@@ -182,3 +183,7 @@ Same as llmswap - MIT License. See [LICENSE](https://github.com/sreenathmmenon/l
 ---
 
 Built with ❤️ using Jekyll and hosted on GitHub Pages.
+=======
+# llmswap-website
+https://llmswap.org
+>>>>>>> 4758f19d241e8058a7d0ffdeb62de70f8bdf35f3
