@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # llmswap Documentation Website
 
 This repository contains the complete documentation website for [llmswap](https://github.com/sreenathmmenon/llmswap) - the universal AI CLI.
