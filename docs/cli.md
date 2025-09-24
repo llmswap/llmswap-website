@@ -89,22 +89,17 @@ llmswap chat
   </div>
   <pre><code>$ llmswap chat
 🤖 Starting chat with claude-3-5-sonnet
-
 You: Hello, my name is Sarah
 Assistant: Hello Sarah! Nice to meet you. How can I help you today?
-
 You: /switch gemini
 🔄 Switched to gemini
-
 You: What's my name?
 Assistant: Your name is Sarah.
-
 You: /stats
 📊 Session Statistics:
 Messages: 4
 Total tokens: 156
 Session duration: 2m 15s
-
 You: /quit
 👋 Goodbye!</code></pre>
 </div>
